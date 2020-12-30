@@ -290,3 +290,7 @@ section#ideias,
 footer {
     margin-top: 64px;
 }
+
+#last-ideias {
+    margin: auto;
+}
